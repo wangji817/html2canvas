@@ -6,9 +6,10 @@
 3.创建一个项目newReact文件夹<br/>
 
 #### 启动命令
-1.npm run build 文件修改监听<br/>
-2.npm run dev 编译打包启动服务<br/>
-3.访问地址:http://localhost:8989/views/
+1.npm install 如果无法下载使用cnpm
+2.npm run build 文件修改监听<br/>
+3.npm run dev 编译打包启动服务<br/>
+4.访问地址:http://localhost:8989/views/
 
 #### 开始搭建
 1.在newReact项目下呼出dos窗口编辑。<br/>
