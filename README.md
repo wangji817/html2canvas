@@ -6,7 +6,7 @@
 3.创建一个项目newReact文件夹<br/>
 
 #### 启动命令
-1.npm install 如果无法下载使用cnpm
+1.npm install 如果无法下载使用cnpm<br/>
 2.npm run build 文件修改监听<br/>
 3.npm run dev 编译打包启动服务<br/>
 4.访问地址:http://localhost:8989/views/
